@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "rootDir": "./",
+    "paths": {
+      "@public/*": ["public/*"],
+      "@api/*": ["api/*"],
+      "@components/*": ["components/*"],
+      "@models/*": ["models/*"],
+      "@store/*": ["store/*"],
+      "@utils/*": ["utils/*"],
+      "@styles/*": ["styles/*"],
+    }
+  }
+}
+  
